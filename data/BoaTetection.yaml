@@ -1,5 +1,8 @@
 train: /Users/erikayari/Documents/Uni/Master/Deep Learning/dataset/images/train
 val: /Users/erikayari/Documents/Uni/Master/Deep Learning/dataset/images/val
 test: /Users/erikayari/Documents/Uni/Master/Deep Learning/dataset/images/val
+# train: C:\Users\Lyndon\Desktop\challenge\Git\rep\BoaTetection_public\BoaTetection_public\CombinedDatasetsChallenge\images\train
+# val: C:\Users\Lyndon\Desktop\challenge\Git\rep\BoaTetection_public\BoaTetection_public\CombinedDatasetsChallenge\images\val
+# test: C:\Users\Lyndon\Desktop\challenge\Git\rep\BoaTetection_public\BoaTetection_public\CombinedDatasetsChallenge\images\val
 nc: 2
 names: ['boat', 'other']
